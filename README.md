@@ -25,5 +25,5 @@ To deploy this project run
 
 ## Screenshots
 
-![Results of Google](https://github.com/riteshnaik55/ip-lookup/blob/master/screenshot/1.png)
-![Results of Microsoft](https://github.com/riteshnaik55/ip-lookup/blob/master/screenshot/2.png)
+![Results of Google](https://github.com/riteshnaik55/ip-lookup/blob/main/screenshot/1.png)
+![Results of Microsoft](https://github.com/riteshnaik55/ip-lookup/blob/main/screenshot/2.png)
